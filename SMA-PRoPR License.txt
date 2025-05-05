@@ -1,0 +1,15 @@
+The Source Made Available (SMA) License for Personal Reference or Publication Review (PRoPR).
+The SMA-PRoPR License.
+Copyright 2025 Axewielder Goods
+Copyright 2025 Guillermo M. Davila
+
+This code is made available as is, without warranties of any kind, for the sole purposes of personal reference and review. Any commercial use or application, redistribution, inclusion in any other software not approved by the author is expressly prohibited. Run at your own risk!
+
+Any derivative or application, such as a copy, a translation into a different language or reimplementation, without limit, may not be distributed or put into production as a service, product, in-house software, etcetera, for commercial, industrial, governmental or any other purposes different from the personal review or inspection of the code made available, or its inclusion as reference in any publication by the same author, or as part of the documents submitted for consideration in the process of publication by an academic journal without the proper approval of the author either. 
+
+All use for illegal or malicious intents and purposes, such as any kind of malware, espionage, violations of human rights, fraud, without limit, are absolutely prohibited under any and all jurisdictions.
+
+All other cases not literally included in this license document must also be treated under the assumption that they are also not approved and expressly prohibited by the author.
+
+This license is subject to improvement at the author's discretion to become more rigorous and better express the wills of the author.
+
